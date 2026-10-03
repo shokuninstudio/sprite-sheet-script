@@ -10,7 +10,7 @@ python spritesheet.py
 
 (or on macOS: python3 spritesheet.py)
 
-This will result in spritesheet.png in the image directory)
+This will result in spritesheet.png in the image directory.
 
 Or to control the number of columns, amount of padding and output name:
 
