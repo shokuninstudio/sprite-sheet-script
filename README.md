@@ -23,4 +23,4 @@ python spritesheet.py --columns 8 --padding 2 --output sheet.png
 - Input images must be PNG.
 - Supports common 8 bit PNG formats: RGBA, RGB, grayscale, grayscale + alpha, indexed/paletted PNG with optional transparency
 - Interlaced PNGs are not supported.
-- Images are packed into equal-size cells based o
+- Images are packed into equal-size cell
