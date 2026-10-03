@@ -8,7 +8,7 @@ Usage, run the command in the image directory:
 
 python spritesheet.py
 
-(python3 spritesheet.py on macOS)
+((or on macOS: python3 spritesheet.py)
 
 This will result in spritesheet.png in the image directory)
 
@@ -16,7 +16,7 @@ Or to control the number of columns, amount of padding and output name:
 
 python spritesheet.py --columns 8 --padding 2 --output sheet.png
 
-(python3 spritesheet.py --columns 8 --padding 2 --output sheet.png)
+(or on macOS: python3 spritesheet.py --columns 8 --padding 2 --output sheet.png)
 
 Notes:
 
