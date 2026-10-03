@@ -6,7 +6,7 @@ Usage, run the command in the image directory:
 
 python spritesheet.py
 
-((or on macOS: python3 spritesheet.py)
+(or on macOS: python3 spritesheet.py)
 
 This will result in spritesheet.png in the image directory)
 
